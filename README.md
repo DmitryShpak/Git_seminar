@@ -34,7 +34,8 @@ Git- это одна из реализаций распределенных си
 ## Удаление веток
 
 Для удаления ветки ввести команду "git branch -d 'name branch'".
-Для того, чтобы начать работать с удаленными репозиториями, необходимо:
+
+## Для того, чтобы начать работать с удаленными репозиториями, необходимо:
  
 Add heading textAdd bold text, <Ctrl+b>Add italic text, <Ctrl+i>
 Add a quote, <Ctrl+Shift+.>Add code, <Ctrl+e>Add a link, <Ctrl+k>
